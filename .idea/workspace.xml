@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6430b26-b049-4966-ba43-60cee787e65e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CheckoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CssSelector.java" afterDir="false" />
+    <list default="true" id="d6430b26-b049-4966-ba43-60cee787e65e" name="Default Changelist" comment="Tema-Lab17-JUnit and CSS Selectors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegisterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WishListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WishListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CssSelector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +43,21 @@
       <recent name="C:\Users\Ioana\Desktop\QA\automation\MyFirstSeleniumProject\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.WishListTest.sortByPrice">
-    <configuration name="CssSelector.deleteProductButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CssSelector.sortBy">
+    <configuration name="CheckoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyFirstSeleniumProject" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CssSelector" />
-      <option name="METHOD_NAME" value="deleteProductButton" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="CheckoutTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CssSelector.proceedToCheckout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CssSelector" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyFirstSeleniumProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CssSelector" />
-      <option name="METHOD_NAME" value="proceedToCheckout" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,33 +72,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WishListTest.addShoesToWishList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyFirstSeleniumProject" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WishListTest" />
-      <option name="METHOD_NAME" value="addShoesToWishList" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WishListTest.sortByPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyFirstSeleniumProject" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WishListTest" />
-      <option name="METHOD_NAME" value="sortByPrice" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="RegisterTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WishListTest.sortByPrice" />
-        <item itemvalue="JUnit.WishListTest.addShoesToWishList" />
         <item itemvalue="JUnit.CssSelector.sortBy" />
-        <item itemvalue="JUnit.CssSelector.proceedToCheckout" />
-        <item itemvalue="JUnit.CssSelector.deleteProductButton" />
+        <item itemvalue="JUnit.CssSelector" />
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.RegisterTest" />
+        <item itemvalue="JUnit.CheckoutTest" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +109,14 @@
       <option name="presentableId" value="Default" />
       <updated>1620319452759</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tema-Lab17-JUnit and CSS Selectors">
+      <created>1620841380824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620841380824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +129,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tema-Lab17-JUnit and CSS Selectors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema-Lab17-JUnit and CSS Selectors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -44,11 +44,10 @@ public class CssSelector {
     }
 
     @Test
-    public void sortBy() throws InterruptedException {
+    public void sortBy() {
         driver.get("http://testfasttrackit.info/selenium-test/");
         driver.findElement(By.cssSelector(".nav-5 .level0")).click();
-        driver.findElement(By.cssSelector(".sort-by select")).click();
-        Thread.sleep(3000);
+        driver.findElement(By.cssSelector(".category-products > .toolbar select[title='Sort By']")).click();
     }
     @After
     public void close() {
